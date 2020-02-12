@@ -1,3 +1,4 @@
 in this demo we are understanding about recurrive merge 
 when changes are done to the master branch while working with multiple brances while merging it will not be fst forward merge.
-adding a new line in test from master branch..
+we r going to create a conflict
+by changing data in this file.
